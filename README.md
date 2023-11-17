@@ -1,4 +1,4 @@
-# Bus_booking
+# Codeingitor_bus_booking
 
 Simple site to book bus built using HTML, CSS, Ajax and PHP using codeingitor framework
 
