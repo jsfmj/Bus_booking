@@ -13,6 +13,8 @@ login.php
 
 ![login](https://github.com/jsfmj/Bus_booking/assets/68734739/718ec3db-25a1-44aa-9c84-b173d30bb927)
 
+![register](https://github.com/jsfmj/Bus_booking/assets/68734739/508fed13-1bb2-423d-8309-b00cea5fd8f2)
+
 
 search.php
 
